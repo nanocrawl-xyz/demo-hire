@@ -37,6 +37,9 @@ export default function RootLayout({
             <Link href="/jobs" className="text-sm text-gray-400 hover:text-white transition-colors">
               All Jobs
             </Link>
+            <Link href="/nanocrawl" className="text-sm text-gray-400 hover:text-white transition-colors">
+              Dashboard
+            </Link>
             <span className="text-xs px-2 py-1 rounded-full bg-gray-800 text-gray-400 border border-gray-700">
               Protected by NanoCrawl
             </span>
